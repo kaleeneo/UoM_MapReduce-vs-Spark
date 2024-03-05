@@ -1,3 +1,5 @@
+--connecting to the emr cluster using PuTTY
+
 sudo chown hadoop -R /var/log/hive
 mkdir /var/log/hive/user/hadoop
 
